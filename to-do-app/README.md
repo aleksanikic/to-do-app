@@ -12,8 +12,8 @@ The application also has a load more button, which controls how many tasks are s
 2.tailwindCSS version: 4.1.4 <br/>
   
 ### Steps to install dependencies:<br/>
-1.npm install<br/>
-2.npm install tailwindcss @tailwindcss/vite<br/>
+1.npm install <br/>
+2.npm install tailwindcss @tailwindcss/vite <br/>
 
 ### Instructions on how to run the app locally:<br/>
 In terminal type: npm run dev

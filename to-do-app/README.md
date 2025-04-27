@@ -1,7 +1,7 @@
 # TO-DO-APP
 
 ### description:
-Application for a to-do list, sorted by date and title, and filtered by username.<br/>
+Application for a to-do list, can be sorted by date and title, and can be filtered by username.<br/>
 The application also has a load more button, which controls how many tasks are shown on screen.<br/>
 
 ### Screenshot of the application:<br/>

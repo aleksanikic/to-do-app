@@ -9,7 +9,7 @@ The application also has a load more button, which controls how many tasks are s
 
 ### Prerequisites:<br/>
 1. Node.js version: v22.15.0 <br/>
-2.tailwindCSS version: 4.1.4 <br/>
+2. tailwindCSS version: 4.1.4 <br/>
   
 ### Steps to install dependencies:<br/>
 1.npm install <br/>
